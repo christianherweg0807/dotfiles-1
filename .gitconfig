@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Christian Herweg
+  email = christian.herweg@otto.de
 [core]
   editor = vi
   excludesfile = ~/.gitignore
